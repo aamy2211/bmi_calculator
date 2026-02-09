@@ -1,16 +1,19 @@
-# bmi_calculator
+# BMI Calculator 🏋️‍♂️
 
-A new Flutter project.
+A sleek, modern, and responsive Body Mass Index (BMI) calculator built with **Flutter**.
 
-## Getting Started
+## 🚀 Features
+- **Custom UI Widgets:** Hand-crafted reusable components.
+- **Interactive Height Slider:** Smooth selection using `SliderTheme`.
+- **Health Logic:** Accurate BMI calculation with feedback.
+- **Responsive Layout:** Works on Mobile and Web.
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots
+<p align="center">
+  <img src="screenshots/home_screen.png" width="350" alt="Home Screen">
+  <img src="screenshots/result_screen.png" width="350" alt="Result Screen">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Built With
+- **Framework:** [Flutter](https://flutter.dev/)
+- **Language:** [Dart](https://dart.dev/)
